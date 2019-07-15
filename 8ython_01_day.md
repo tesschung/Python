@@ -67,10 +67,6 @@ Nbextensions: tableofcontents
 
 
 
-
-
-
-
 ----------note------------
 
 **lambda 인자리스트: 표현식**
