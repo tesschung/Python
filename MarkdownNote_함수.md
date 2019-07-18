@@ -1,26 +1,29 @@
 [TOC]
 
+코드리뷰
 
+http://www.pythontutor.com/visualize.html#mode=edit
 
 ## site
 
-| #    | links                                                  | description                      |
-| ---- | ------------------------------------------------------ | -------------------------------- |
-|      | typora                                                 |                                  |
-| 1    | https://typora.io/                                     |                                  |
-| 2    | https://gist.github.com/ihoneymon/652be052a0727ad59601 |                                  |
-|      | python                                                 |                                  |
-| 1    | https://www.python.org/downloads/windows/              | python official site             |
-|      | python module                                          |                                  |
-| 1    | https://wikidocs.net/79                                | python wikidocs site             |
-| 2    | https://docs.python.org/3.7/library/random.html        | random                           |
-|      | python study reference                                 |                                  |
-| 1    | https://dojang.io/mod/page/view.php?id=2307            |                                  |
-| 2    | https://wikidocs.net/16043                             |                                  |
-|      | API                                                    |                                  |
-| 1    | https://www.data.go.kr/dataset/15000581/openapi.do     | 대기오염정보 조회 서비스API      |
-|      | NLP                                                    |                                  |
-| 1    | http://wikidocs.net/21667                              | 딥러닝을 이용한 자연어 처리 입문 |
+| #    | links                                                        | description                      |
+| ---- | ------------------------------------------------------------ | -------------------------------- |
+|      | typora                                                       |                                  |
+| 1    | https://typora.io/                                           |                                  |
+| 2    | https://gist.github.com/ihoneymon/652be052a0727ad59601       |                                  |
+|      | python                                                       |                                  |
+| 1    | https://shoark7.github.io/programming/python/about-list-comprehension-python | **SUNGHWAN PARK**                |
+| 2    | https://www.python.org/downloads/windows/                    | python official site             |
+|      | python module                                                |                                  |
+| 1    | https://wikidocs.net/79                                      | python wikidocs site             |
+| 2    | https://docs.python.org/3.7/library/random.html              | random                           |
+|      | python study reference                                       |                                  |
+| 1    | https://dojang.io/mod/page/view.php?id=2307                  |                                  |
+| 2    | https://wikidocs.net/16043                                   |                                  |
+|      | API                                                          |                                  |
+| 1    | https://www.data.go.kr/dataset/15000581/openapi.do           | 대기오염정보 조회 서비스API      |
+|      | NLP                                                          |                                  |
+| 1    | http://wikidocs.net/21667                                    | 딥러닝을 이용한 자연어 처리 입문 |
 
 
 
