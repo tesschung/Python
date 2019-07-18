@@ -4,6 +4,10 @@
 
 ##  키워드
 
+
+
+**모두 정리**
+
 중요한 파트
 
 함수 function
@@ -89,6 +93,15 @@ LEGB Rule
 
 
 
+피보나치수열 완전 이해하기
+
+[https://shoark7.github.io/programming/algorithm/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95.html](https://shoark7.github.io/programming/algorithm/피보나치-알고리즘을-해결하는-5가지-방법.html)
+
+**당히 단순한 단조 증가(monotonically increasing) 수열로 0번째 항은 0, 1번째 항은 1, 그 외 항은 전번, 전전번 항의 합으로 표현
+
+
+
+![1563416978136](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1563416978136.png)
 
 
 
@@ -96,5 +109,14 @@ LEGB Rule
 
 
 
+함수복습 필요
 
-피보나치수열
+
+
+하노이탑
+
+
+
+
+
+제곱근 이해하기!
