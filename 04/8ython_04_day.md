@@ -29,3 +29,8 @@ list comprehension
 피타고라스 정리
 
 z의 제곱이 x+y의 제곱인것
+
+
+
+
+
